@@ -1,6 +1,6 @@
 # SH LoRa GW
 
-<img src="https://img.shields.io/badge/status-in%20progress-yellow.svg" alt="status: in progress">
+<a href="https://github.com/bastlirna/sh-lora-gw/wiki/log"><img src="https://img.shields.io/badge/status-in%20progress-yellow.svg" alt="status: in progress"></a>
 
 In this repository there are materials created during making of LoRaWAN Gateway and its installation on Strahov dormitory. 
 
