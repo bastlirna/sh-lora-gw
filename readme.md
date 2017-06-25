@@ -1,5 +1,7 @@
 # SH LoRa GW
 
+<img src="https://img.shields.io/badge/status-in%20progress-yellow.svg" alt="status: in progress">
+
 In this repository there are materials created during making of LoRaWAN Gateway and its installation on Strahov dormitory. 
 
 Mainly this is place where we store documentation for ourselves. But we hope that this could be inspiration for another GW builders.
@@ -11,4 +13,4 @@ Mainly this is place where we store documentation for ourselves. But we hope tha
 
 ## Credits
 
-Gateway is created in cooperation of [MacGyver hacker space](http://macgyver.sh.cvut.cz/), student club [Silicon Hill](http://www.siliconhill.cz/) and [CESNET association](https://www.cesnet.cz/?lang=en). 
+Gateway is created in cooperation of [MacGyver hacker space](http://macgyver.sh.cvut.cz/), students club [Silicon Hill](http://www.siliconhill.cz/) and [CESNET association](https://www.cesnet.cz/?lang=en). 
