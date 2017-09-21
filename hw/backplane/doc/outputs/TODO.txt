@@ -1,0 +1,9 @@
+backplane-NC.txt - Drilling tools
+backplane.drl - Drills (Excellon)
+backplane.gbl - Copper BOTTOM 
+backplane.gbs - Mask BOTTOM
+backplane.gm1 - Milling
+backplane.gtl - Copper TOP 
+backplane.gto - Silk TOP
+backplane.gts - Mask TOP
+backplane.rpt - Drilling tools
